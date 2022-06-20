@@ -1,0 +1,10 @@
+d:\rust\Antenna\hello\target\rls\debug\deps\error_chain-72c8cbf43192c9e6.rmeta: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\example_generated.rs
+
+d:\rust\Antenna\hello\target\rls\debug\deps\error_chain-72c8cbf43192c9e6.d: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\example_generated.rs
+
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\lib.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\impl_error_chain_kind.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\error_chain.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\quick_main.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\backtrace.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.4\src\example_generated.rs:

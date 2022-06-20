@@ -1,0 +1,12 @@
+d:\rust\Antenna\hello\target\rls\debug\deps\cookie-3dd747f3fe5d2770.rmeta: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\builder.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\parse.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\jar.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\delta.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\draft.rs
+
+d:\rust\Antenna\hello\target\rls\debug\deps\libcookie-3dd747f3fe5d2770.rlib: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\builder.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\parse.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\jar.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\delta.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\draft.rs
+
+d:\rust\Antenna\hello\target\rls\debug\deps\cookie-3dd747f3fe5d2770.d: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\builder.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\parse.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\jar.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\delta.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\draft.rs
+
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\lib.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\builder.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\parse.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\jar.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\delta.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.11.4\src\draft.rs:

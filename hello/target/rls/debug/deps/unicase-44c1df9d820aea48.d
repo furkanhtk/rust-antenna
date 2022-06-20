@@ -1,0 +1,7 @@
+d:\rust\Antenna\hello\target\rls\debug\deps\unicase-44c1df9d820aea48.rmeta: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicase-1.4.2\src\lib.rs
+
+d:\rust\Antenna\hello\target\rls\debug\deps\libunicase-44c1df9d820aea48.rlib: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicase-1.4.2\src\lib.rs
+
+d:\rust\Antenna\hello\target\rls\debug\deps\unicase-44c1df9d820aea48.d: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicase-1.4.2\src\lib.rs
+
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicase-1.4.2\src\lib.rs:

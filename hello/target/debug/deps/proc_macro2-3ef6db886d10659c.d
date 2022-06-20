@@ -1,0 +1,12 @@
+D:\rust\Antenna\hello\target\debug\deps\proc_macro2-3ef6db886d10659c.rmeta: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs
+
+D:\rust\Antenna\hello\target\debug\deps\libproc_macro2-3ef6db886d10659c.rlib: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs
+
+D:\rust\Antenna\hello\target\debug\deps\proc_macro2-3ef6db886d10659c.d: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs
+
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\lib.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\marker.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\parse.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\detection.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\fallback.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.40\src\wrapper.rs:

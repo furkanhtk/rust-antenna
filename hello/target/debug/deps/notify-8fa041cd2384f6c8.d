@@ -1,0 +1,12 @@
+D:\rust\Antenna\hello\target\debug\deps\notify-8fa041cd2384f6c8.rmeta: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs
+
+D:\rust\Antenna\hello\target\debug\deps\libnotify-8fa041cd2384f6c8.rlib: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs
+
+D:\rust\Antenna\hello\target\debug\deps\notify-8fa041cd2384f6c8.d: C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs
+
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\lib.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\windows.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\null.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\poll.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\mod.rs:
+C:\Users\Furkan\.cargo\registry\src\github.com-1ecc6299db9ec823\notify-4.0.17\src\debounce\timer.rs:
